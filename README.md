@@ -4,8 +4,8 @@
 ### student: 김토끼👋
 
 </br>
-<p> 안녕하세요 자라나는 개<H1>발<H1>새싹 입니다</br>
-발부탁드립니다. <strong> 힘내보아요!</strong> </p>
+<p> 안녕하세요 자라나는 개발새싹 입니다</br>
+>   > 잘 부탁드립니다. <strong> 힘내보아요!</strong> </p>
 
 **httt56/httt56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
