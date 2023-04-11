@@ -1,10 +1,10 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KIM%20tokki%20Gorilla&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KIM%20tokki%20Bloga&fontSize=90)
 
 ### student: 김토끼👋
 
 </br>
-<p> 안녕하세요 개발새싹 입니다</br>
+<p> 안녕하세요 자라나는 개<H1>발<H1>새싹 입니다</br>
 발부탁드립니다. <strong> 힘내보아요!</strong> </p>
 
 **httt56/httt56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
